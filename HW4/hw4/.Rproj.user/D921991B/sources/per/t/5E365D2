@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570509652107.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1483763767",
+    "id" : "5E365D2",
+    "lastKnownWriteTime" : 1570511529,
+    "last_content_update" : 1570511529420,
+    "path" : "~/CS242/HW4/hw4/hw4.R",
+    "project_path" : "hw4.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

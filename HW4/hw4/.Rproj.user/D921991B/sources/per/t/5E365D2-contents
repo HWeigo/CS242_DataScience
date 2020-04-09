@@ -1,0 +1,9 @@
+df = read.table(file = "../aneurysm_data.csv", sep = ',', header = TRUE)
+
+# Q1.1
+plot(df$Age, df$BloodPressure, main=" Relationship Between Blood Pressure And Age", xlab = "Age", ylab = "Blood Pressure")
+lines(lowess(df$BloodPressure~df$Age, f = 2/3), col = 'blue', lwd = 2)
+legend("topright", legend=c("Blood Pressure", "Smooth Line"),
+       col=c("black", "blue"), pch = c(1,NA), lty= c(NA,1), cex=1)
+
+

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571583771908.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1922886940",
+    "id" : "3EB36975",
+    "lastKnownWriteTime" : 1571624898,
+    "last_content_update" : 1571624898789,
+    "path" : "~/CS242/Project1/R/q2.R",
+    "project_path" : "q2.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
